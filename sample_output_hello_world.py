@@ -6,6 +6,10 @@ if __name__ == '__main__':
     # print()関数
     print("Hello world!")
 
+    # print(end='')
+    print("Hello", end=' ')
+    print("world!")
+
     # print(f書式)関数
     print(f"Hello world!")
 
