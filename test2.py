@@ -35,6 +35,6 @@ if __name__ == '__main__':
     # タプルとprint(f書式)を使用
     tuple_ = ["Hello world!"]
     print(f"{tuple_[0]}")
-
+    
     # 関数をコール
     print_def()
